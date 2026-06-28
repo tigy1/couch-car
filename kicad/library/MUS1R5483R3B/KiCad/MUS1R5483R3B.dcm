@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MUS1R5483R3B
+D DC/DC Converters - SMD 36-76Vin 1.32W 3.3Vout 0.4A SMT
+K
+F https://en.cosel.co.jp/tool/tag/pdf/SFE_MU.pdf
+$ENDCMP
+#
+#End Doc Library

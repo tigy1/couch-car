@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-S3-Pico
+D Microcontroller, 2.4 GHz Wi-Fi Development Board, dual-core processor with frequency up to 240 MHz
+K
+F https://www.waveshare.com/wiki/ESP32-S3-Pico
+$ENDCMP
+#
+#End Doc Library
